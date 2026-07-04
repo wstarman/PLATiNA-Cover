@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.37327.17
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLATiNA-Cover", "PLATiNA-Cover.csproj", "{83502EBB-A070-4C12-8BAB-A345D1668623}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83502EBB-A070-4C12-8BAB-A345D1668623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83502EBB-A070-4C12-8BAB-A345D1668623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83502EBB-A070-4C12-8BAB-A345D1668623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83502EBB-A070-4C12-8BAB-A345D1668623}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D98D432-9803-4CD9-9F1E-FCD72A982E55}
+	EndGlobalSection
+EndGlobal

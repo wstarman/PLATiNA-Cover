@@ -1,0 +1,101 @@
+# User-specific files
+.rsuser
+.suo
+.user
+.userosscache
+.sln.docstates
+
+# Build results
+[Bb]in
+[Oo]bj
+[Ll]og
+[Ll]ogs
+
+# Visual Studio cache
+.vs
+
+# Rider
+.idea
+
+# ReSharper
+_ReSharper
+.[Rr]e[Ss]harper
+
+# NuGet
+.nupkg
+packages
+!packagesbuild
+!packagesrepositories.config
+
+# Test results
+[Tt]est[Rr]esult
+[Bb]uild[Ll]og.
+
+# Visual Studio profiler
+.psess
+.vsp
+.vspx
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts
+
+# Publish output
+publish
+Publish
+
+# ClickOnce
+app.publish
+
+# Azure
+PublishScripts
+
+# Temporary files
+.tmp
+.temp
+.cache
+
+# Logs
+.log
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Windows shortcuts
+.lnk
+
+# Visual Studio Code
+.vscode
+
+# JetBrains
+.idea
+
+# Generated files
+Generated Files
+
+# SQL Server
+.mdf
+.ldf
+
+# LocalDB
+.dbmdl
+
+# Backup files
+.bak
+.backup
+
+# Debug symbols
+.pdb
+
+# Packages lock (若不想追蹤可保留)
+# packages.lock.json
+
+# .NET CLI
+artifacts
+
+# DotCover
+.dotCover
+
+# NUnit
+.VisualState.xml
+TestResult.xml
